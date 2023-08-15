@@ -31,4 +31,6 @@
 *.out
 *.app
 
+# Test
+test/
 _test.cpp
